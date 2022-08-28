@@ -1,0 +1,98 @@
+/* Global */
+body {
+    padding-top: 3em;
+    padding-bottom: 3em;
+    color: #5a5a5a;
+}
+
+h2 {
+    text-align: center;
+}
+
+/* Navbar */
+nav {
+    height: 20%;
+    text-transform: uppercase;
+}
+
+.navbar-brand {
+    font-size: 2em;
+    font-weight: bold;
+    color: #5a5a5a;
+    position: absolute;
+    top: 50%;
+    margin-bottom: 1em;
+}
+
+.navbar-nav {
+    list-style-type: none;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/* Icons */
+i {
+    font-size: 3em;
+    padding: 0.5em;
+}
+
+main {
+    margin-top: 12em;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+.gallery-item {
+    width: calc(20% - 1em);
+    height: 40vh;
+    padding: 1em;
+    margin: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+    background-color: #fff;
+    box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.15);
+}
+
+img {
+    width: 100%;
+    height: 70%;
+}
+
+
+.gallery-item > p {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: bold;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.gallery-item > span {
+    text-align: center;
+}
+
+.gallery-item > .caption {
+    font-size: 1em;
+    border: none;
+    text-transform: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.social {
+    text-align: center;
+}
+
