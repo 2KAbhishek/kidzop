@@ -20,10 +20,10 @@
 <a href="https://github.com/2KAbhishek/kidzop/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/kidzop?style=flat&color=e06c75&label="> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Shop for kidz 👚🐥</h3>
 
 <figure>
-  <img src= "images/screenshot.png" alt="kidzop Demo">
+  <img src= "images/screenshot.jpg" alt="kidzop Demo">
   <br/>
   <figcaption>kidzop screenshot</figcaption>
 </figure>
@@ -32,17 +32,17 @@
 
 ## What is this
 
-kidzop is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+A dummy kids apparel site used for teaching web dev.
 
 ## Inspiration
 
-kidzop was inspired by `<reason/idea>`.
+Needed to teach web dev to beginners.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `a modern web browser`
 
 ## Getting kidzop
 
@@ -51,51 +51,12 @@ To get kidzop, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/kidzop
 cd kidzop
-<install_command>
-```
-
-## Using kidzop
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+npx live-server .
 ```
 
 ## How it was built
 
-kidzop was built using `<tech/library>`
-
-## Challenges faced
-
-While building kidzop the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building kidzop I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+kidzop was built using `neovim`
 
 Hit the ⭐ button if you found this useful.
 
